@@ -1,8 +1,17 @@
 🐶 Puppy Website
 A puppy-themed website built using HTML and CSS.
 
+🧠 Project Idea
 
+This project was built to practice the fundamentals of web development
+by creating a simple themed website from scratch.
 
+The focus was not on complexity, but on:
+- Clean structure
+- Proper file organization
+- Styling with pure CSS
+- Deploying a live website using GitHub Pages
+- 
 📌 Features
 - Clean and simple layout
 - Responsive design
